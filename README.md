@@ -33,4 +33,4 @@ All-in-one **Ss Iptv Prime** entertainment platform featuring high-quality strea
 
 ## Get the app
 - 📥 **Latest release:** [https://ss-iptv-prime.softyx.xyz](https://ss-iptv-prime.softyx.xyz)
-- 📖 **Details & docs:** [https://ss-iptv-prime.softyx.xyz](https://ss-iptv-prime.softyx.xyz)     
+- 📖 **Details & docs:** [https://ss-iptv-prime.softyx.xyz](https://ss-iptv-prime.softyx.xyz)      
